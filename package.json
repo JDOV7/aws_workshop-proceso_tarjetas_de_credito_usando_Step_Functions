@@ -1,0 +1,11 @@
+{
+  "name": "aws_workshop-proceso_tarjetas_de_credito_usando_step_functions",
+  "version": "1.0.0",
+  "description": "1. [🚀 Informacion General](#-informacion-general)\r 2. [💻 Tecnologias](#-tecnologias)\r 3. [📚 Recursos](#-recursos)\r 4. [✒️ Autores](#%EF%B8%8F-autores)",
+  "main": "callback-human-approval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
